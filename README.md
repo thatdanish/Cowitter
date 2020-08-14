@@ -13,7 +13,6 @@ This app is your one stop destination for your all covid-19 related news (sentim
     - Metrics : Accuracy  
     - Optimizer : Adam (default)  
 
-
 - **Model Save:-**  
    - Keras Saved Model format (Model/Final_Model)  
    - Json file format (Model/final_model.json)  
@@ -22,6 +21,9 @@ This app is your one stop destination for your all covid-19 related news (sentim
     - Model is deployed using REST-API using Flask mini-framework. (main_app.py)  
     - Preparing Input for prediction on server. (processing.py)    
     - Dummy request make for testing. (request.py)
+    
+_ **Directory Map:**
+    - Master Model File -- main.ipynb  
 
 ## Requirements:-  
 - Tensorflow  
@@ -30,6 +32,7 @@ This app is your one stop destination for your all covid-19 related news (sentim
 - Numpy  
 - NLTK  
 - scikit-learn  
+- Flask  
 - Git (optional)  
 - Conda (optional)  
 - Local sever  
