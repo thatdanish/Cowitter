@@ -22,7 +22,7 @@ This app is your one stop destination for your all covid-19 related news (sentim
     - Preparing Input for prediction on server. (processing.py)    
     - Dummy request make for testing. (request.py)
     
-_ **Directory Map:**
+- **Directory Map:**  
     - Master Model File -- main.ipynb  
 
 ## Requirements:-  
